@@ -41,7 +41,7 @@ Here's a walkthrough of implemented user stories:
 - Logging in when opening the app the first time requires two consecutive attempts, and always says login fails the first time
 - Most visual styling is incomplete and has improper positions or backgrounds, and the app icon only appears in some screens and not others
 
-#Week 1
+# Week 1
 
 Time spent: **7** hours spent in total
 
