@@ -23,11 +23,8 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.codepathparstagram.FeedActivity;
 import com.example.codepathparstagram.MainActivity;
 import com.example.codepathparstagram.R;
-import com.example.codepathparstagram.ui.login.LoginViewModel;
-import com.example.codepathparstagram.ui.login.LoginViewModelFactory;
 import com.example.codepathparstagram.databinding.ActivityLoginBinding;
 import com.parse.ParseUser;
 
@@ -155,7 +152,7 @@ public class LoginActivity extends AppCompatActivity {
 
     private void goMainActivity()
     {
-        Intent i = new Intent(this, FeedActivity.class);
+        Intent i = new Intent(this, MainActivity.class);
         startActivity(i);
         finish();
     }

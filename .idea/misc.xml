@@ -3,13 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/drawable/action_compose.xml" value="0.121875" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/drawable/action_profile.xml" value="0.121875" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/drawable/home_button_background.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout-w936dp/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/activity_feed.xml" value="0.2" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/content_scrolling.xml" value="0.109375" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/fragment_compose.xml" value="0.10866261398176291" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/fragment_posts.xml" value="0.1" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/layout/item_post.xml" value="0.264" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.264" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/menu/menu_main.xml" value="0.10572916666666667" />
+        <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/menu/menu_scrolling.xml" value="0.109375" />
         <entry key="..\:/Users/tyler/AndroidStudioProjects/CodepathParstagram/app/src/main/res/xml/fileprovider.xml" value="0.11875" />
       </map>
     </option>

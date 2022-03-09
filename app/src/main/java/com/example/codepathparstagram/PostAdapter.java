@@ -36,6 +36,7 @@ public class PostAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
         PostHolder postHolder = (PostHolder) holder;
         postHolder.tvUsername.setText(post.getUser().getUsername());
         postHolder.tvBody.setText(post.getDescription());
+        postHolder.tvTimestamp.setText(post.getTimestamp());
         Glide.with(context)
                 .load(post.getImage().getUrl())
                 .into(postHolder.ivImage);
@@ -51,4 +52,10 @@ public class PostAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
         this.posts.addAll(posts);
         notifyDataSetChanged();
     }
+
+    public void clear() {
+        posts.clear();
+        notifyDataSetChanged();
+    }
+
 }

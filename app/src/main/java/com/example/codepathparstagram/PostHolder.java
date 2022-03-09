@@ -16,6 +16,7 @@ public class PostHolder extends RecyclerView.ViewHolder {
     TextView tvUsername;
     ImageView ivImage;
     RelativeLayout container;
+    TextView tvTimestamp;
 
     public PostHolder(@NonNull View itemView) {
         super(itemView);
@@ -23,5 +24,6 @@ public class PostHolder extends RecyclerView.ViewHolder {
         ivImage = itemView.findViewById(R.id.ivImage);
         container = itemView.findViewById(R.id.item_post);
         tvBody = itemView.findViewById(R.id.tvBody);
+        tvTimestamp = itemView.findViewById(R.id.tvTimestamp);
     }
 }
